@@ -8,11 +8,11 @@ height: 40em;
 `
 
 const Button = styled.button `
-color: palevioletred;
+color: black;
   font-size: 20px;
   margin: 10px;
   padding: 5px 20px;
-  border: 2px solid palevioletred;
+  border: 2px solid black;
   border-radius: 3px;
 `
 
@@ -27,11 +27,11 @@ margin: 0;
 
 `
 const Input = styled.input `
-color: palevioletred;
+color: black;
   font-size: 20px;
   margin: 10px;
   padding: 5px 20px;
-  border: 2px solid palevioletred;
+  border: 2px solid black;
   border-radius: 3px;
   width: 100%;
   box-sizing: border-box;
